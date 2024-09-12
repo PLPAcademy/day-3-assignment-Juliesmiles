@@ -47,6 +47,7 @@ B) Download Python from the official website
 C) Open the terminal and type sudo apt install python
 D) Install pip manually
 Answer:B
+
 Which option should you ensure is checked during Python installation on Windows?
 
 A) Install with default settings
@@ -54,6 +55,7 @@ B) Install to a custom directory
 C) Add Python to PATH
 D) Install all available features
 Answer:C
+
 How do you verify Python installation on any system?
 
 A) By running python --version
@@ -61,6 +63,7 @@ B) By restarting your computer
 C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
 Answer:B
+
 What command is used to install pip on macOS and Linux?
 
 A) sudo install pip
@@ -68,6 +71,7 @@ B) pip install python
 C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
 Answer:C
+
 What is the purpose of a virtual environment in Python?
 
 A) To keep your projects organized in one folder
@@ -85,6 +89,7 @@ B) Download MySQL Installer from the official website
 C) Install MySQL Workbench
 D) Set up a root password
 Answer:B
+
 What setup type should you choose for a custom MySQL installation?
 
 A) Developer Default
@@ -92,6 +97,7 @@ B) Server Only
 C) Full
 D) Custom
 Answer:D
+
 Which products should you select during the MySQL installation?
 
 A) MySQL Server, MySQL Workbench, and MySQL Shell
@@ -99,13 +105,15 @@ B) Only MySQL Server
 C) MySQL Server and MySQL Router
 D) MySQL Workbench and MySQL Utilities
 Answer:A
+
 What is the purpose of setting a root password during MySQL installation?
 
 A) To create a user account for your MySQL server
 B) To secure your MySQL installation with a super-secret password
 C) To activate MySQL Workbench
 D) To allow multiple users to access MySQL
-B
+Answer:B
+
 How do you begin managing your database after installing MySQL?
 
 A) Start by installing additional plugins
