@@ -10,7 +10,6 @@
 Answer: B
 
 
-
 2. Which command verifies the Dart installation on macOS?
 Answer:D
 A) dart --install
